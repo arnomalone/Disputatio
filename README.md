@@ -1,6 +1,6 @@
 # Disputatio
 Scream into the void 
-Flutter based texting application implemented through Firebase.
+Flutter based texting application implemented through Firebase Cloud Firestore.
 
 Created by:
 [Abhishek Saini](https://www.github.com/arnomalone)
