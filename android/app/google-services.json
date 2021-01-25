@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082371821745",
+    "project_id": "disputatio8",
+    "storage_bucket": "disputatio8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082371821745:android:d7012cd22c30e3325c5290",
+        "android_client_info": {
+          "package_name": "com.arnomalone.disputatio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082371821745-fq6dh28f5lmmmufang1595mera1hif9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMFPofXh2rih99KRf9Vq2jJXV-TV5qOJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082371821745-fq6dh28f5lmmmufang1595mera1hif9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
