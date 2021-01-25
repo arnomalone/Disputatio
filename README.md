@@ -7,6 +7,6 @@ Created by:
 
 ## Screenshots from the application
 ![](https://github.com/arnomalone/Disputatio/blob/main/welcome.jpg)
-![](https://github.com/arnomalone/Disputatio/blob/main/login.jpg)
 ![](https://github.com/arnomalone/Disputatio/blob/main/register.jpg)
+![](https://github.com/arnomalone/Disputatio/blob/main/login.jpg)
 ![](https://github.com/arnomalone/Disputatio/blob/main/chat.jpg)
